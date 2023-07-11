@@ -1,5 +1,5 @@
 {
-	"name": "miraheze/incident-reporting",
+	"name": "wikiforge/incident-reporting",
 	"type": "mediawiki-extension",
 	"description": "Incident Report forms in MediaWiki.",
 	"homepage": "https://www.mediawiki.org/wiki/Extension:IncidentReporting",
@@ -13,7 +13,7 @@
 		}
 	],
 	"support": {
-		"issues": "https://phabricator.miraheze.org/tag/incidentreporting/",
+		"issues": "https://support.wikiforge.net/tag/incidentreporting/",
 		"wiki": "https://www.mediawiki.org/wiki/Extension:IncidentReporting"
 	},
 	"require": {
