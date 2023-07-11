@@ -70,7 +70,7 @@
 			"value": false
 		},
 		"IncidentReportingTaskUrl": {
-			"description": "Full url of task tracking software minus the task ID. e.g. https://phabricator.miraheze.org/",
+			"description": "Full url of task tracking software minus the task ID. e.g. https://support.wikiforge.net/",
 			"public": true,
 			"value": false
 		}
