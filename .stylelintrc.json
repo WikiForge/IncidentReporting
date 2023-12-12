@@ -7,10 +7,8 @@
 	"reportNeedlessDisables": true,
 	"rules": {
 		"font-weight-notation": null,
-		"selector-anb-no-unmatchable": null,
 		"selector-class-pattern": null,
 		"selector-max-id": null,
-		"media-query-no-invalid": null,
 		"no-descending-specificity": null,
 		"declaration-no-important": null,
 		"declaration-property-unit-disallowed-list": null
